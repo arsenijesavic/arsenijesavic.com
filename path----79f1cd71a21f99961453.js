@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{88:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Arsenije Savic",subtitle:"web is my canvas",shortBio:"creative code. interaction. web.",social:[{icon:"github",url:"https://github.com/arsenijesavic"},{icon:"twitter",url:"https://twitter.com/_arsenije"},{icon:"instagram",url:"https://www.instagram.com/arsenijesavic/"},{icon:"behance",url:"https://www.behance.net/arsenijesavic"}]}}},layoutContext:{}}}});
+//# sourceMappingURL=path----79f1cd71a21f99961453.js.map
